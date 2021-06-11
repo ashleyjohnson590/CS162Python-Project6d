@@ -1,0 +1,54 @@
+Criteria	Ratings	Pts
+Project 6a
+20 to >19 pts
+Full Marks
+Meets criterion
+19 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+20 / 20 pts
+Project 6b
+20 to >19 pts
+Full Marks
+Meets criterion
+19 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+Comments
+You failed a GS test but I am not deducting for it because I'm not sure why GS failed it. The list in the failed test case should return False and when testing your code, it does accurately return False for that list. I'm going to attribute it to a GS error since you also passed all the other tests.
+20 / 20 pts
+Project 6c
+20 to >19 pts
+Full Marks
+Meets criterion
+19 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+20 / 20 pts
+Project 6d
+40 to >39 pts
+Full Marks
+Meets criterion
+39 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+40 / 40 pts
+Deductions
+0 pts
+Full Marks
+0 pts
+No Marks
+-- / 0 pts
+Total Points: 100
